@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sminetrak.github.io/sitemap.html.gz
+Sitemap: https://sminetrak.github.io/app/sitemap.html.gz
+Sitemap: https://sminetrak.github.io/assets/sitemap.html.gz
+Sitemap: https://sminetrak.github.io/css/sitemap.html.gz
+Sitemap: https://sminetrak.github.io/data/sitemap.html.gz
+Sitemap: https://sminetrak.github.io/includes/sitemap.html.gz
+Sitemap: https://sminetrak.github.io/item/sitemap.html.gz
+Sitemap: https://sminetrak.github.io/src/sitemap.html.gz
